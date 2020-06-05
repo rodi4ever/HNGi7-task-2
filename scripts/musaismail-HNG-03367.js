@@ -1,7 +1,7 @@
 
-let fullName = "ISMAIL MUSA";
+let fullName = "Ismail Musa";
 let id = "HNG-03367";
 let language = "Javascript";
 let email ="musaharold@yahoo.com";
 
-console.log("Hello world, this is  " + fullName + " with HNG ID " + id + " and email " + email + " with " + language + " into stage 2 task");
+console.log("Hello World, this is  " + fullName + " with HNGi7 ID " + id + " and email " + email + " using " + language + " for stage 2 task");
